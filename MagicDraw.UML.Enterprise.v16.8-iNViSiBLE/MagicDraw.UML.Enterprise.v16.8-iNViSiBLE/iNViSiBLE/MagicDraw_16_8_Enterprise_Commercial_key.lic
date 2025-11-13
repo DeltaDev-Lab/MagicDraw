@@ -1,0 +1,4 @@
+INCREMENT MagicDrawEnterprise cameo 16.801 permanent uncounted \
+	VENDOR_STRING="profile=1337|user=iNViSiBLE TEAM|productType=Application|edition=Enterprise|version=Commercial| \
+	licenseType=Standalone|versionNumber=16.8|protected=23547565204170722032372031383a34333a35392043445420323031300d0a726567696f6e3d5363656e650d0a6b657949443d313333370d0a0d0a|product=MagicDraw|" \
+	HOSTID=ANY TS_OK SIGN="1337"
